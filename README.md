@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there!
 
-<!--
-**aayushbist49/aayushbist49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile](https://gpvc.arturio.dev/itsrabinbhat)
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushbist49&show_icons=true&theme=blueberry&icon_color=fff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Follow Me
+[![""](https://img.shields.io/github/followers/aayushbist49?style=social&label=Follow)](https://github.com/aayushbist49)
+
+## My Skills
+
+![""](https://img.shields.io/badge/HTML5-white?logo=html5)
+![""](https://img.shields.io/badge/CSS3-white?logo=css3&logoColor=orange)
+![""](https://img.shields.io/badge/JavaScript-white?logo=javascript)
+![""](https://img.shields.io/badge/ReactJS-white?logo=react)
+![""](https://img.shields.io/badge/Git-white?logo=git)
+![""](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbist49&layout=compact&theme=blueberry)](https://github.com/aayushbist49)
