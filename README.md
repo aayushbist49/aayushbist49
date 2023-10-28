@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbist49&layout=compact&theme=blueberry)](https://github.com/aayushbist49)
 
-## Find me around the web 🌐
+## Find me around the web 🕸️
 [![""](https://img.shields.io/github/followers/aayushbist49?style=social&label=GitHub)](https://github.com/aayushbist49)
 [![](https://img.shields.io/badge/LinkedIn-brightgreen?style=flat&logo=linkedin&logoColor=black&color=white)]([https://www.linkedin.com/in/AayushBist/](https://www.linkedin.com/in/aayush-bist-ba79b524a/))
 ![](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=black&color=white)
