@@ -6,7 +6,7 @@ Hi there👋
 
 ## Follow Me
 [![""](https://img.shields.io/github/followers/aayushbist49?style=social&label=Follow)](https://github.com/aayushbist49)
-[![](https://img.shields.io/badge/Instagram-%23E4405F)](https://www.instagram.com/aayush___bist/)
+[![](https://img.shields.io/badge/Instagram-%FFFFFF)](https://www.instagram.com/aayush___bist/)
 
 
 ## My Skills
