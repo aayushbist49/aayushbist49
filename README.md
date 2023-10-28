@@ -1,7 +1,5 @@
 Hi there👋
 
-![Profile](https://gpvc.arturio.dev/itsrabinbhat)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushbist49&show_icons=true&theme=blueberry&icon_color=fff)
 
 ## Follow Me
