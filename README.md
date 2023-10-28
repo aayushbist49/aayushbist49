@@ -5,7 +5,7 @@ Hi there👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushbist49&show_icons=true&theme=blueberry&icon_color=fff)
 
 ## Follow Me
-[![""](https://img.shields.io/github/followers/aayushbist49?style=social&label=Follow)](https://github.com/aayushbist49)
+[![""](https://img.shields.io/github/followers/aayushbist49?style=social&label=GitHub)](https://github.com/aayushbist49)
 [![](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=black&color=white)](https://www.instagram.com/yourusername/)
 
 
